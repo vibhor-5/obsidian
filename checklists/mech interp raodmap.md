@@ -1,8 +1,8 @@
 ### **Month 1: Learning the Ropes & Foundational Concepts**
 
 **Overview Checklist for Month 1:**
-- [ ] Understand the high-level architecture and data flow of a GPT-style transformer.
-- [ ] Define core mech interp terms like superposition, polysemanticity, features, and circuits.
+- [x] Understand the high-level architecture and data flow of a GPT-style transformer.
+- [x] Define core mech interp terms like superposition, polysemanticity, features, and circuits.
 - [ ] Gain a practical understanding of key techniques: activation patching, probing, and using SAEs.
 - [ ] Become proficient in using the basic functionalities of TransformerLens or nnsight for running models and accessing activations.
 - [ ] Internalize the strategic frameworks for conducting research proposed by Nanda and Steinhardt.
@@ -12,7 +12,7 @@
 #### **Weekly Checklists for Month 1**
 
 **Week 1: Core Concepts & Transformer Basics**
-*   [ ] **Read:** "A Mathematical Framework for Transformer Circuits" to understand the core components like the residual stream and attention heads.
+*   [x] **Read:** "A Mathematical Framework for Transformer Circuits" to understand the core components like the residual stream and attention heads.
 *   [ ] **Read:** Neel Nanda's "Comprehensive Mechanistic Interpretability Explainer & Glossary" sections on General Concepts, Representations, and Superposition.
 *   [ ] **Watch:** 3Blue1Brown's "Essence of Linear Algebra" series to solidify your understanding of vectors, matrices, and basis changes.
 *   [ ] **Self-Test:** Explain the purpose of the residual stream, attention heads, and MLP layers to yourself or a peer. Use an LLM to check your understanding.
