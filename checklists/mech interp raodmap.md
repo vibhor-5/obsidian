@@ -99,3 +99,5 @@ This is a template you can repeat. A "sprint" could last one or two weeks.
 *   [ ] **Write Full Draft:** Write a complete draft of your paper or blog post. Focus on crafting a clear narrative that tells the story of your research.
 *   [ ] **Get Feedback:** Share your draft with peers or a mentor and incorporate their feedback.
 *   [ ] **Publish:** Post your work publicly (e.g., on a personal blog, LessWrong, or arXiv). Congratulations
+
+
