@@ -1,0 +1,13 @@
+Terminal goals:
+- become happy
+	- enjoy with friends
+	- support family 
+	- do things i enjoy - travel, gaming 
+- make people around you happy
+	- help friends and family 
+	- make new friends 
+	- tell people about stuff you learn
+- have some impact on humanity in terms of advancement of knowledge
+	- mech interp
+	- ai research
+	- open source 
