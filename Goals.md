@@ -9,5 +9,16 @@ Terminal goals:
 	- tell people about stuff you learn
 - have some impact on humanity in terms of advancement of knowledge
 	- mech interp
+		- read papers and articles
+			- toy model of superposition
+			- biology of llm
+		- find a researcher and contact them to work with them 
 	- ai research
+		- small projects
+			- reproduce findings in biology of llm
+			- make framework replicating thought anchors
 	- open source 
+		- contribute to 
+			- deepmind 
+			- flax
+			- pytorch
